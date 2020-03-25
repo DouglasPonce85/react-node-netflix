@@ -1,6 +1,5 @@
 # React Node Netflix
-
-A simple React starter that's perfect for messing around. Comes with Babel, Emotion CSS in JS, ESlint, and Prettier.
+Alternative version of the Netflix Browse Page with React & Node.js(*in progress*).
 
 ## Use
 
